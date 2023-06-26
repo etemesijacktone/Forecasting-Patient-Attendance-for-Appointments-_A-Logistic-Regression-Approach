@@ -1,4 +1,4 @@
-# An Analysis of Missed Patient Appointments in Brazil in the Year 2016
+# Forecasting Patient Attendance for Appointments: A Logistic Regression Approach
 
 ## Introduction
 
